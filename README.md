@@ -1,5 +1,4 @@
-# UI-UX
-UI/UX Projects
+# UI-UX DESIGNS
 ![Logo](https://github.com/KidusDZ/UI-UX/assets/114849668/cffcc17b-b49e-4fa4-91e8-37c505a4c42b)
 ![eqidLogin](https://github.com/KidusDZ/UI-UX/assets/114849668/db47387a-56ab-4341-b9fb-ba41927c7e2b)
 ![eqidLogin1](https://github.com/KidusDZ/UI-UX/assets/114849668/d62a141f-d5c3-4e28-81b5-3204a17f68ef)
